@@ -1,9 +1,26 @@
-What's the problem?
+## Summary
 
-Reproduction steps
+Briefly describe the issue.
 
-Expected results
+## Steps to reproduce
 
-Actual results
+1.
+2.
+3.
 
-Screenshots
+## Expected result
+
+What should happen?
+
+## Actual result
+
+What actually happened?
+
+## Additional information
+
+- Environment (e.g., browser, OS, version)
+- Logs or error messages (if any)
+
+## Screenshots (if applicable)
+
+Attach screenshots or screen recordings.
